@@ -1,0 +1,14 @@
+{
+  "morning": {
+    "name": "Morning"
+  },
+  "lunch": {
+    "name": "Lunch"
+  },
+  "dinner": {
+    "name": "Dinner"
+  },
+  "snack": {
+    "name": "Snack"
+  }
+}

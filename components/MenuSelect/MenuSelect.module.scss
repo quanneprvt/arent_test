@@ -1,0 +1,17 @@
+@import "../../styles/variables.scss";
+
+.menu-select-wrp {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .menu-select-content {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    flex-direction: column;
+    color: white;
+  }
+}

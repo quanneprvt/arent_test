@@ -1,0 +1,15 @@
+@import "../../styles/variables.scss";
+
+.wrp {
+  border: 2px solid $secondary;
+  padding: 15px;
+  .date-wrp {
+    margin-bottom: 8px;
+  }
+  .title {
+    font-size: 13px;
+  }
+  .desc {
+    font-size: 12px;
+  }
+}

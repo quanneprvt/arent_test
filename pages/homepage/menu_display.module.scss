@@ -1,0 +1,18 @@
+@import "../../styles/variables.scss";
+
+.menu-display-wrp {
+  justify-content: center;
+  align-items: center;
+  padding: $basePadding 0;
+  gap: 5px;
+  .menu-display-item {
+    height: 100%;
+  }
+}
+
+.btn-wrp {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 40px 0;
+}

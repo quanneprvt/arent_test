@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Chicken",
+    "menu": ["morning", "dinner"]
+  },
+  {
+    "name": "Wings",
+    "menu": ["morning"]
+  },
+  {
+    "name": "Vegetable",
+    "menu": ["dinner"]
+  },
+  {
+    "name": "Noodle",
+    "menu": ["lunch"]
+  },
+  {
+    "name": "Bread",
+    "menu": ["snack"]
+  },
+  {
+    "name": "Milk",
+    "menu": ["morning"]
+  },
+  {
+    "name": "Water",
+    "menu": ["dinner"]
+  }
+]

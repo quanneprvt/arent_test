@@ -1,0 +1,15 @@
+@import "../../styles/variables.scss";
+
+.exercies-wrp {
+  background: $secondary;
+  padding: 15px;
+  .title-wrp {
+    display: flex;
+    gap: 20px;
+    color: white;
+  }
+  .detail-wrp {
+    max-height: 200px;
+    overflow: auto;
+  }
+}

@@ -1,0 +1,12 @@
+@import "../../styles/variables.scss";
+
+.grid-chart-wrp {
+  background-color: $secondary;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  .chart-wrp {
+    height: 80%;
+    width: 80%;
+  }
+}

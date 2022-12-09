@@ -1,0 +1,18 @@
+[
+  {
+    "name": "RECOMMENDED COLUMN",
+    "description": "オススメ"
+  },
+  {
+    "name": "RECOMMENDED DIET",
+    "description": "ダイエット"
+  },
+  {
+    "name": "RECOMMENDED BEAUTY",
+    "description": "美容"
+  },
+  {
+    "name": "RECOMMENDED HEALTH",
+    "description": "健康"
+  }
+]

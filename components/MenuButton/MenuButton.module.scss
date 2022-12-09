@@ -1,0 +1,23 @@
+@import "../../styles/variables.scss";
+
+:export {
+  menuBackground: $secondary;
+  menuWidth: 250px;
+}
+
+.btn-wrp {
+  &:hover {
+    background: transparent;
+  }
+}
+
+.menu {
+  border-radius: 0;
+  width: 150px;
+}
+
+.divider {
+  margin: 5px 0;
+  border-color: white;
+  opacity: 0.15;
+}

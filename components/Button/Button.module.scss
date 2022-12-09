@@ -1,0 +1,13 @@
+@import "../../styles/variables.scss";
+
+.button-action {
+  padding: 5px 40px;
+  &.active {
+    background: $gradientPrimary;
+    color: white;
+  }
+  &.inactive {
+    background: white;
+    color: $primary;
+  }
+}

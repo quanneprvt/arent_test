@@ -1,0 +1,11 @@
+@import "../../styles/variables.scss";
+
+$chartColorPrimary: $primary2;
+$chartColorSecondary: $secondary2;
+
+:export {
+  chartPrimary: $chartColorPrimary;
+  chartSecondary: $chartColorSecondary;
+  chartBackgroundColor: $secondary;
+  lineColor: $grey;
+}

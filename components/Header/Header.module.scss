@@ -1,0 +1,21 @@
+@import "../../styles/variables.scss";
+
+.header-wrp {
+  padding: 0;
+  .header-bar {
+    background-color: $secondary;
+    padding: $basePadding;
+    position: sticky;
+  }
+  .menu-item-wrp {
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    .menu-navi-wrp {
+      margin-right: 5vw;
+    }
+    .menu-icon {
+      color: $primary;
+    }
+  }
+}

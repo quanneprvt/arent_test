@@ -1,0 +1,35 @@
+@import "../../styles/variables.scss";
+
+.wrp {
+  margin: 5px 30px 5px 0;
+  .detail-wrp {
+    display: flex;
+    font-size: 13px;
+    .mark {
+      width: 5%;
+      color: white;
+      font-size: 30px;
+      line-height: 100%;
+      display: flex;
+      align-items: flex-start;
+      margin-top: -15px;
+    }
+    .title-wrp {
+      width: 65%;
+      .title {
+        color: white;
+      }
+      .cal {
+        color: $primary2;
+      }
+    }
+    .time {
+      width: 20%;
+      color: $primary2;
+    }
+  }
+
+  .divider {
+    border-color: $grey;
+  }
+}

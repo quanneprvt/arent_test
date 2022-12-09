@@ -1,0 +1,10 @@
+.wrp {
+  padding: 50px 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  .btn-wrp {
+    display: flex;
+    justify-content: center;
+  }
+}
