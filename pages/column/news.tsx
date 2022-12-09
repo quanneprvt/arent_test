@@ -40,6 +40,8 @@ const News = () => {
                 title={`${moment(new Date(newData.date)).format(
                   "YYYY.MM.DD"
                 )} ${newData.time}`}
+                description={newData.description}
+                tags={newData.tags}
               />
             </Grid>
           );
