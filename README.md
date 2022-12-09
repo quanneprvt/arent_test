@@ -26,4 +26,11 @@
 - `styles`: variables.scss contain var for styling, global.scss contain global var
 - `public`: public assets such as image, font, ....
 
+#### Framework:
+- MaterialUI
+- NextJS
+- ReactJS
+- react-chart-js2
+- Compiler: Typescript
+
 ### This is all we need to know about the project, hope you have a good time, thanks
